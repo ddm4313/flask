@@ -1,3 +1,2 @@
 # FLASK
-
-Here I'm messing around with Flask and making a web page that gathers info from all services such as Facebook/Instagram and other social medias.
+Here, I'm just messing with Flask and testing whatnot.
